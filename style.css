@@ -1,0 +1,9 @@
+table#external-css {
+  border: 1px solid black;
+  margin: 0 auto;
+  width: 400px;
+}
+
+table#external-css tr#chairman {
+  font-weight: bold;
+}
